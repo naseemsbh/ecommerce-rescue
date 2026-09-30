@@ -1,0 +1,44 @@
+0	./website/customer/js/shop.js
+0	./website/customer/home.html
+0	./website/customer/css/main.css
+0	./website/api/controllers/inventory.json
+0	./website/admin/users/users.json
+0	./website/admin/config/api.conf
+0	./reports/INSTALL.md
+0	./monitoring/server-report.txt
+0	./monitoring/audit.log
+0	./backups/restore.sql
+4.0K	assets/
+4.0K	automation/
+4.0K	backups/
+8.0K	monitoring/
+4.0K	reports/
+52K	website/
+./website/admin/users/users.json
+./website/api/controllers/inventory.json
+./automation/deploy-prod.sh
+./monitoring/audit.log
+./monitoring/server-report.txt
+./backups/restore.sql
+./reports/INSTALL.md
+./website/admin/users/users.json
+./website/admin/config/api.conf
+./website/customer/home.html
+./website/customer/css/main.css
+./website/customer/js/shop.js
+./website/api/controllers/inventory.json
+./automation/deploy-prod.sh
+./monitoring/audit.log
+./backups/restore.sql
+./reports/INSTALL.md
+./website/admin/users/users.json
+./website/admin/config/api.conf
+./website/customer/home.html
+./website/customer/css/main.css
+./website/customer/js/shop.js
+./website/api/controllers/inventory.json
+./website/admin/dashboard
+./website/customer/products
+./website/api/routes
+./website/api/logs
+./assets
